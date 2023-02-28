@@ -18,6 +18,7 @@
 Repositório criado para os cursos da formação "A partir do zero: iniciante em programação" da Alura.
 
 - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+- HTML e CSS: Classes, posicionamento e Flexbox
 
 ## 🚀 Tecnologias
 
